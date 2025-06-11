@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Akshay 👋
 
-<!--
-**Alwvioc/Alwvioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer focused on building efficient and scalable applications. I enjoy working with Python, Node.js, SQL, and modern backend tools like FastAPI and Docker. I also explore full-stack development and productivity tools on the side.
 
-Here are some ideas to get you started:
+## 🧠 Current Projects
+- 🧠 **AI Productivity Assistant** – An AI-powered task manager to streamline daily goals.
+- 🖥 **Task Manager App** – A local Windows desktop app to track tasks with a built-in database.
+- 🔗 **Link Share** – A lightweight web app to save and share useful links (Node.js + MongoDB).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+- **Languages**: Python, JavaScript (Node.js), SQL, C#
+- **Frameworks**: FastAPI, Express, React
+- **Databases**: PostgreSQL, SQLite, MongoDB
+- **Tools**: Docker, Git, VS Code, JWT, REST APIs
+
+## 📈 GitHub Stats
+![Alwvioc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwvioc&show_icons=true&theme=github_dark)
+
+*Thanks for stopping by! 🌟*
