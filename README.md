@@ -14,6 +14,6 @@ I'm a full stack developer focused on building efficient and scalable applicatio
 - **Tools**: Docker, Git, VS Code, JWT, REST APIs
 
 ## 📈 GitHub Stats
-![Alwvioc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwvioc&show_icons=true&theme=github_dark)
+![Alwvioc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwvioc&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
 *Thanks for stopping by! 🌟*
